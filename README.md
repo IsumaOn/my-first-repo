@@ -1,2 +1,2 @@
-# my-first-repo
+# Barrel1
 My first repository on Github
